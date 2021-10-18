@@ -1,5 +1,5 @@
 # Sinatra Dynamic Routes Lab
-
+ params[:word1] + " " + params[:word2] + " " + params[:word3] + " " +  params[:word4] + " " + params[:word5] + '.'
 ## Overview
 This lab will serve to reinforce your understanding of routes in a Sinatra application. Complete the following tasks in your application controller and get all of the tests to pass.
 
